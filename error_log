@@ -1,0 +1,1 @@
+[28-Mar-2024 02:22:20 UTC] [critical] Error thrown while running command "'doctrine:migration:migrate'". Message: "An exception occurred while executing a query: SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'car' already exists"
